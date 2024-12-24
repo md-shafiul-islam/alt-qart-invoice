@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .odd-table .ant-table-thead .ant-table-cell {
+    @apply bg-teal-400 dark:bg-teal-800 font-semibold py-3;
+  }
+  .odd-table .ant-table-tbody tr.ant-table-row:nth-child(odd) {
+    @apply bg-gray-300 dark:bg-gray-700 py-2;
+    @apply border border-b border-gray-200;
+  }
+}
