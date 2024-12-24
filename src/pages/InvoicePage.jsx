@@ -38,6 +38,7 @@ const InvoicePage = () => {
     return <LoadingContent />;
   }
 
+  console.log("Order Single Page ", order);
   return (
     <>
       <div className="w-full">
@@ -63,7 +64,9 @@ const InvoicePage = () => {
             >
               <div className="grid grid-cols-2 gap-5">
                 <div className="">
-                  <Card title="Product Details">
+                  <Card
+                    title={`Product Details Invoice ID ${order?.id}, Serial: ${order?.serial}`}
+                  >
                     <div className="flex flex-col gap-4">
                       {order?.receipt_items?.map((item) => {
                         return (

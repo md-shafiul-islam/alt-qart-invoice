@@ -30,6 +30,7 @@ const InvoicesPage = () => {
               <Table
                 dataSource={orders}
                 columns={invoiceCols}
+                bordered
                 pagination={{
                   pageSizeOptions: [10, 15, 20, 30, 50],
                   showSizeChanger: true,

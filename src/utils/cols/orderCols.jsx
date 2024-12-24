@@ -1,4 +1,8 @@
-import { FileDoneOutlined, FilePdfOutlined } from "@ant-design/icons";
+import {
+  DollarCircleOutlined,
+  FileDoneOutlined,
+  FilePdfOutlined,
+} from "@ant-design/icons";
 
 import dateFormat, { masks } from "dateformat";
 import { NavLink } from "react-router-dom";
@@ -59,7 +63,20 @@ export const invoiceCols = [
     dataIndex: "notes",
     key: "notes",
   },
-
+  {
+    title: "Total",
+    dataIndex: "total_amount",
+    key: "total_amount",
+    render: (amount) => {
+      return (
+        <span className="font-bold text-nowrap">
+          <DollarCircleOutlined />
+          &nbsp;
+          {amount}
+        </span>
+      );
+    },
+  },
   {
     title: "Fraud",
     dataIndex: "is_fraud",
