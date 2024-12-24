@@ -36,7 +36,15 @@ export const invoiceCols = [
     with: `8%`,
     render: (status) => {
       return (
-        <span className="px-2 bg-teal-700 font-semibold text-white py-1 shadow-md text-nowrap">
+        <span
+          className={`${
+            status === "Order Placed"
+              ? status === "Order Cancelled"
+                ? "bg-red-600"
+                : "bg-teal-700"
+              : "bg-green-600"
+          } px-2  font-semibold text-white py-1 shadow-md text-nowrap`}
+        >
           {status}
         </span>
       );
