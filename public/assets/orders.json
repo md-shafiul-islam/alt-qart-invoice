@@ -1,6 +1,160 @@
 {
   "orders": [
     {
+      "id": 282162,
+      "customer_name": "\u09ae\u09cb \u09b8\u09cb\u09ac\u09b9\u09be\u09a8 ",
+      "customer_phone": "+8801317601677",
+      "customer_address": "\u09b0\u09a4\u09a8 \u09aa\u09c1\u09b0  Lalmai, Comilla, Chattagram,",
+      "receipt_items": [
+        {
+          "id": 423515,
+          "name": "China Soft Padded Bra - Good Quality",
+          "price": 350,
+          "quantity": null,
+          "image_url": "https://d10rvdv6rxomuk.cloudfront.net/inventories/10871576201714035.png",
+          "warranty": null,
+          "inventory_id": 265682,
+          "created_at": "2024-12-24 12:51:11",
+          "updated_at": "2024-12-24 12:51:11",
+          "qty": 1,
+          "variant_id": null,
+          "custom_fields": null,
+          "inventory": {
+            "id": 265682,
+            "name": "China Soft Padded Bra - Good Quality",
+            "image_url": null,
+            "price": 350,
+            "quantity": 339,
+            "unit_name": null,
+            "shop_id": 46302,
+            "created_at": "2024-09-17 23:33:10",
+            "updated_at": "2024-12-24 13:12:13",
+            "category_id": null,
+            "warranty": null,
+            "description": "<ul><li><strong>\u0985\u09b0\u09cd\u09a1\u09be\u09b0 \u0995\u09b0\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u098f\u0996\u09be\u09a8\u09c7 \u09aa\u09cd\u09b0\u09cb\u09a1\u09be\u0995\u09cd\u099f \u09b8\u09c7\u09b2\u09c7\u0995\u09cd\u099f \u0995\u09b0\u09c7 \u09aa\u09b0\u09c7\u09b0 \u09aa\u09c7\u099c\u09c7 \u0997\u09bf\u09af\u09bc\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09a4\u09a5\u09cd\u09af \u09af\u09c7\u09ae\u09a8 \u09a8\u09be\u09ae, \u09ae\u09cb\u09ac\u09be\u0987\u09b2 \u09a8\u09be\u09ae\u09cd\u09ac\u09be\u09b0, \u09a0\u09bf\u0995\u09be\u09a8\u09be \u098f\u09ac\u0982 \u09a1\u09cd\u09b0\u09aa \u09a1\u09be\u0989\u09a8 \u09ae\u09c7\u09a8\u09c1 \u09a5\u09c7\u0995\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09ac\u09bf\u09ad\u09be\u0997, \u099c\u09c7\u09b2\u09be \u098f\u09ac\u0982 \u09ae\u09ab\u09b8\u09cd\u09ac\u09b2 \u09b8\u09c7\u09b2\u09c7\u0995\u09cd\u099f \u0995\u09b0\u09c7 \u0985\u09b0\u09cd\u09a1\u09be\u09b0\u099f\u09bf \u0995\u09a8\u09ab\u09be\u09b0\u09cd\u09ae \u0995\u09b0\u09c1\u09a8\u0964\u0985\u09b8\u09c1\u09ac\u09bf\u09a7\u09be \u09b9\u09b2\u09c7 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09ae\u09cd\u09af\u09be\u09b8\u09c7\u099c \u0995\u09b0\u09c1\u09a8\u0964 \u099a\u09be\u09af\u09bc\u09a8\u09bf\u099c \u0985\u09b0\u09bf\u099c\u09bf\u09a8\u09be\u09b2 \u0987\u09ae\u09cd\u09aa\u09cb\u09b0\u09cd\u099f\u09c7\u09a1 </strong>\u09ac\u09cd\u09b0\u09be \u0997\u09c1\u09b2\u09cb \u09aa\u09c7\u09af\u09bc\u09c7 \u09af\u09be\u09ac\u09c7\u09a8 \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u0995\u09be\u099b\u09c7\u0964\u09ac\u09be\u099c\u09be\u09b0\u09c7\u09b0 \u09a6\u09c7\u09b6\u09bf \u09ac\u09cd\u09b0\u09be \u09a5\u09c7\u0995\u09c7 \u0989\u09a8\u09cd\u09a8\u09a4 \u09ae\u09be\u09a8\u09c7\u09b0 \u098f\u09ac\u0982 \u09aa\u09b0\u09bf\u09a7\u09be\u09a8\u09c7 \u098f\u0995\u099f\u09be<strong>\u09aa\u09cd\u09b0\u09bf\u09ae\u09bf\u09af\u09bc\u09be\u09ae</strong>\u09ab\u09bf\u09b2 \u09aa\u09be\u09ac\u09c7\u09a8\u0964\u098f\u0995\u09be\u09a7\u09bf\u0995 \u09b8\u09be\u0987\u099c \u09a8\u09bf\u09b2\u09c7 \u0985\u09b0\u09cd\u09a1\u09be\u09b0 \u098f\u09b0 \u09b8\u09ae\u09af\u09bc \u09a8\u09cb\u099f\u09c7 \u09b2\u09bf\u0996\u09c7 \u09a6\u09bf\u09a8\u0964<span style=\"color: rgb(13, 13, 13);\">\u09b8\u09cd\u09a4\u09a8\u0995\u09c7 \u0989\u0981\u099a\u09c1 \u098f\u09ac\u0982 \u0986\u0995\u09b0\u09cd\u09b7\u09a3\u09c0\u09af\u09bc \u09a6\u09c7\u0996\u09be\u09af\u09bc: \u09aa\u09c1\u09b6-\u0986\u09aa \u09ac\u09cd\u09b0\u09be\u09b0 \u09ac\u09bf\u09b6\u09c7\u09b7 \u09aa\u09cd\u09af\u09be\u09a1\u09bf\u0982 \u098f\u09ac\u0982 \u0986\u09a8\u09cd\u09a1\u09be\u09b0\u0993\u09af\u09bc\u09cd\u09af\u09be\u09b0 \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09cd\u09a4\u09a8\u0995\u09c7 \u0989\u0981\u099a\u09c1 \u0995\u09b0\u09c7, \u09af\u09be \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u0986\u09b0\u0993 \u09aa\u09b0\u09bf\u09aa\u09c2\u09b0\u09cd\u09a3 \u098f\u09ac\u0982 \u0986\u0995\u09b0\u09cd\u09b7\u09a3\u09c0\u09af\u09bc \u09a6\u09c7\u0996\u09be\u09af\u09bc\u0964</span></li><li><br></li></ul><p>\u0986\u09b0\u09be\u09ae\u09a6\u09be\u09af\u09bc\u0995 \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f: \u09b8\u09ab\u099f \u09aa\u09cd\u09af\u09be\u09a1\u09c7\u09a1 \u09ac\u09cd\u09b0\u09be \u09b8\u09cd\u09a4\u09a8\u0995\u09c7 \u0995\u09cb\u09ae\u09b2 \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u09aa\u09cd\u09b0\u09a6\u09be\u09a8 \u0995\u09b0\u09c7\u0964 \u098f\u09a4\u09c7 \u0995\u09cb\u09a8\u09cb \u0985\u09a4\u09bf\u09b0\u09bf\u0995\u09cd\u09a4 \u0995\u09a0\u09bf\u09a8 \u0989\u09aa\u09be\u09a6\u09be\u09a8 \u09ac\u09be \u09a4\u09be\u09b0 (wired) \u09a5\u09be\u0995\u09c7 \u09a8\u09be, \u09af\u09be \u09a4\u09cd\u09ac\u0995\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf \u0995\u09cb\u09ae\u09b2 \u098f\u09ac\u0982 \u09a6\u09c0\u09b0\u09cd\u0998 \u09b8\u09ae\u09af\u09bc \u09a7\u09b0\u09c7 \u0986\u09b0\u09be\u09ae\u09a6\u09be\u09af\u09bc\u0995 \u09a5\u09be\u0995\u09c7\u09ae\u09b8\u09c3\u09a3 \u09b2\u09c1\u0995: \u09aa\u09cd\u09af\u09be\u09a1\u09c7\u09a1 \u09ac\u09cd\u09b0\u09be \u0995\u09be\u09aa\u09dc\u09c7\u09b0 \u09a8\u09bf\u099a\u09c7 \u09b8\u09cd\u09a4\u09a8\u09c7\u09b0 \u09b8\u09cd\u09ac\u09be\u09ad\u09be\u09ac\u09bf\u0995 \u0986\u0995\u09be\u09b0\u0995\u09c7 \u09ad\u09be\u09b2\u09cb\u09ad\u09be\u09ac\u09c7 \u09a7\u09b0\u09c7 \u09b0\u09be\u0996\u09a4\u09c7 \u09b8\u09be\u09b9\u09be\u09af\u09cd\u09af \u0995\u09b0\u09c7 \u098f\u09ac\u0982 \u09ac\u09cd\u09b0\u09be \u09b2\u09be\u0987\u09a8\u09c7\u09b0 \u09ad\u09be\u0981\u099c \u09ac\u09be \u0985\u09b8\u09be\u09ae\u099e\u09cd\u099c\u09b8\u09cd\u09af \u0995\u09ae\u09be\u09df\u0964 \u09ab\u09b2\u09c7 \u099f\u09bf-\u09b6\u09be\u09b0\u09cd\u099f \u09ac\u09be \u09ab\u09bf\u099f\u09bf\u0982 \u0995\u09be\u09aa\u09dc \u09aa\u09b0\u09b2\u09c7\u0993 \u09b8\u09cd\u09a4\u09a8 \u09b8\u09c1\u09a8\u09cd\u09a6\u09b0\u09ad\u09be\u09ac\u09c7 \u0989\u09aa\u09b8\u09cd\u09a5\u09be\u09aa\u09bf\u09a4 \u09b9\u09df\u0986\u09a4\u09cd\u09ae\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8 \u09ac\u09c3\u09a6\u09cd\u09a7\u09bf: \u09ac\u09cd\u09b0\u09be \u09b8\u09cd\u09a4\u09a8\u09c7\u09b0 \u0986\u0995\u09c3\u09a4\u09bf \u0993 \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u09ac\u099c\u09be\u09af\u09bc \u09b0\u09be\u0996\u09be\u09af\u09bc \u098f\u099f\u09bf \u0985\u09a8\u09c7\u0995 \u09ae\u09b9\u09bf\u09b2\u09be\u09b0 \u0986\u09a4\u09cd\u09ae\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8 \u09ac\u09be\u09a1\u09bc\u09be\u09af\u09bc\u0964 \u09a4\u09be\u09ce\u0995\u09cd\u09b7\u09a3\u09bf\u0995 \u09ad\u09b0\u09be\u099f \u0993 \u09b8\u09c1\u09a8\u09cd\u09a6\u09b0 \u0986\u0995\u09c3\u09a4\u09bf\u09b0 \u0995\u09be\u09b0\u09a3\u09c7 \u09aa\u09cb\u09b6\u09be\u0995\u09c7\u0993 \u09ad\u09be\u09b2\u09cb \u09b6\u09c0\u09a4\u09b2\u09a4\u09be \u09a5\u09c7\u0995\u09c7 \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be: \u09a0\u09be\u09a3\u09cd\u09a1\u09be\u09b0 \u09a6\u09bf\u09a8\u09c7 \u09aa\u09cd\u09af\u09be\u09a1\u09c7\u09a1 \u09ac\u09cd\u09b0\u09be \u09b8\u09cd\u09a4\u09a8\u09ac\u09c3\u09a8\u09cd\u09a4\u0995\u09c7 \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be \u09a6\u09c7\u09df \u098f\u09ac\u0982 \u09b8\u09cd\u09a4\u09a8\u09ac\u09c3\u09a8\u09cd\u09a4\u09c7\u09b0 \u0986\u09ac\u09b0\u09a3 \u09a6\u09c3\u09b6\u09cd\u09af\u09ae\u09be\u09a8 \u09b9\u09a4\u09c7 \u09a6\u09c7\u09df \u09a8\u09be, \u09af\u09be \u0985\u09a8\u09c7\u0995\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u098f\u0995\u099f\u09bf \u09ac\u09be\u09dc\u09a4\u09bf \u09b8\u09c1\u09ac\u09bf\u09a7\u09be\u200b\u09b2\u09be\u0997\u09c7\u0964\u0964\u0964</p>",
+            "old_price": 450,
+            "is_active": true,
+            "serial": 1,
+            "has_variant": true,
+            "images": [
+              "https://d10rvdv6rxomuk.cloudfront.net/inventories/10871576201714035.png",
+              "https://d10rvdv6rxomuk.cloudfront.net/inventories/10871577369929957.png",
+              "https://d10rvdv6rxomuk.cloudfront.net/inventories/10871578542371242.png",
+              "https://d10rvdv6rxomuk.cloudfront.net/inventories/10871579258868354.jpg",
+              "https://d10rvdv6rxomuk.cloudfront.net/inventories/10871580783965412.jpg"
+            ],
+            "custom_fields": null,
+            "buying_price": null,
+            "product_code": null,
+            "isApplyDefaultDeliveryCharge": false,
+            "specific_delivery_charges": {
+              "Dhaka": 70
+            },
+            "others_delivery_charge": "120.00",
+            "image_variant_type_id": null,
+            "is_stock_manage_by_variant": false,
+            "video_link": null,
+            "inventory_view_count": 1656,
+            "initial_product_sold": 109,
+            "short_description": null,
+            "brand": null,
+            "condition": "new"
+          },
+          "variants": [
+            {
+              "id": 163977,
+              "receipt_item_id": 423515,
+              "variant_type_id": 63734,
+              "variant_id": 204877,
+              "created_at": "2024-12-24T12:51:11.000000Z",
+              "updated_at": "2024-12-24T12:51:11.000000Z",
+              "variant": {
+                "id": 204877,
+                "name": "Black",
+                "price": 0,
+                "variant_type_id": 63734,
+                "created_at": "2024-09-17T23:33:10.000000Z",
+                "updated_at": "2024-09-17T23:33:10.000000Z",
+                "image_url": null
+              },
+              "variant_type": {
+                "id": 63734,
+                "title": "Size",
+                "inventory_id": 265682,
+                "created_at": "2024-09-17T23:33:10.000000Z",
+                "updated_at": "2024-09-17T23:33:10.000000Z",
+                "is_mandatory": true
+              }
+            },
+            {
+              "id": 163978,
+              "receipt_item_id": 423515,
+              "variant_type_id": 63735,
+              "variant_id": 204881,
+              "created_at": "2024-12-24T12:51:11.000000Z",
+              "updated_at": "2024-12-24T12:51:11.000000Z",
+              "variant": {
+                "id": 204881,
+                "name": "32",
+                "price": 0,
+                "variant_type_id": 63735,
+                "created_at": "2024-09-17T23:33:10.000000Z",
+                "updated_at": "2024-09-17T23:33:10.000000Z",
+                "image_url": null
+              },
+              "variant_type": {
+                "id": 63735,
+                "title": "Size",
+                "inventory_id": 265682,
+                "created_at": "2024-09-17T23:33:10.000000Z",
+                "updated_at": "2024-09-17T23:33:10.000000Z",
+                "is_mandatory": true
+              }
+            }
+          ]
+        }
+      ],
+      "total_amount": 470,
+      "discount_amount": 0,
+      "receipt_url": "282162974",
+      "shop_id": 46302,
+      "created_at": "2024-12-24 12:51:11",
+      "updated_at": "2024-12-24 12:51:11",
+      "tax_amount": 0,
+      "tax_percentage": 0,
+      "notes": "",
+      "download_link": "https://easybill.zatiq.tech/api/v1/receipts/282162974/download",
+      "type": "Online",
+      "status": "Order Placed",
+      "discount_percentage": 0,
+      "is_paid": false,
+      "customer_id": 185865,
+      "delivery_charge": 120,
+      "delivery_zone": "Others",
+      "paid_amount": null,
+      "serial": 375,
+      "payment_type": "cod",
+      "shop_promo_code_id": null,
+      "advance_payment_amount": 0,
+      "is_fraud": false,
+      "fraud_note": null,
+      "email": "",
+      "confirmation_sent_at": null,
+      "delivery_history": null,
+      "shop_promo_code": null,
+      "customer": {
+        "id": 185865,
+        "phone": "+8801317601677",
+        "name": "\u09ae\u09cb \u09b8\u09cb\u09ac\u09b9\u09be\u09a8 ",
+        "address": "\u09b0\u09a4\u09a8 \u09aa\u09c1\u09b0  Lalmai, Comilla, Chattagram,",
+        "created_at": "2024-12-24T12:51:11.000000Z",
+        "updated_at": "2024-12-24T12:51:11.000000Z",
+        "district": "Comilla",
+        "email": ""
+      },
+      "transaction_histories": []
+    },
+    {
       "id": 281955,
       "customer_name": "\u098f\u09b8 \u0995\u09c7 \u09a6\u09bf\u09a6\u09be\u09b0 \u0996\u09be\u09a8 ",
       "customer_phone": "+8801615710533",
