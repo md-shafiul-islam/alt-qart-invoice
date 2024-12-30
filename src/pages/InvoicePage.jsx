@@ -119,7 +119,34 @@ const InvoicePage = () => {
                   </Card>
                 </div>
                 <div>
-                  <Card title="customer">
+                  <Card
+                    title="Customer"
+                    extra={
+                      <div className="flex flex-row gap-3">
+                        <span
+                          className={`${
+                            order?.status === "Order Placed"
+                              ? order?.status === "Order Cancelled"
+                                ? "bg-red-600"
+                                : "bg-teal-700"
+                              : "bg-green-600"
+                          } px-2  font-semibold text-white py-1 shadow-xl text-nowrap`}
+                        >
+                          {order?.status}
+                        </span>
+                        <span className="px-2 font-bold text-black shadow-xl py-1 border">
+                          is Fraud:&nbsp;
+                          <span
+                            className={`${
+                              order?.is_fraud ? "bg-red-500" : "bg-green-600"
+                            } text-white`}
+                          >
+                            {order?.is_fraud ? "Yes" : "No"}
+                          </span>
+                        </span>
+                      </div>
+                    }
+                  >
                     <div className="grid grid-cols-1 gap-2">
                       <div className="flex flex-row gap-5 border-b border-teal-500">
                         <div>নামঃ</div>
@@ -145,6 +172,24 @@ const InvoicePage = () => {
                         <div>ইমেইলঃ</div>
                         <div>{order?.customer?.email}</div>
                       </div>
+                    </div>
+                    <div className="my-8  flex flex-col gap-5 shadow-md">
+                      <div className="border-t-2 border-dashed flex flex-row py-4">
+                        <div className="w-2/12">Notes:</div>
+                        <div className="w-10/12 p-3 border min-h-40  font-semibold">
+                          {order?.notes}
+                        </div>
+                      </div>
+                      {order?.fraud_note ? (
+                        <div className="border-t-2 border-dashed flex flex-row py-4">
+                          <div className="w-2/12 text-red-500">Fraud Note:</div>
+                          <div className="w-10/12 p-3 border min-h-40  font-semibold">
+                            {order?.fraud_note}
+                          </div>
+                        </div>
+                      ) : (
+                        ""
+                      )}
                     </div>
                   </Card>
                 </div>
